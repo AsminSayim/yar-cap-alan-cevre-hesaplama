@@ -1,0 +1,112 @@
+﻿namespace yarıcap_alan_çevre_hesaplama
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.lblYaricap = new System.Windows.Forms.Label();
+            this.txtYaricap = new System.Windows.Forms.TextBox();
+            this.btnHesapla = new System.Windows.Forms.Button();
+            this.lblCevre = new System.Windows.Forms.Label();
+            this.lblAlan = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // lblYaricap
+            // 
+            this.lblYaricap.AutoSize = true;
+            this.lblYaricap.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblYaricap.Location = new System.Drawing.Point(32, 60);
+            this.lblYaricap.Name = "lblYaricap";
+            this.lblYaricap.Size = new System.Drawing.Size(70, 20);
+            this.lblYaricap.TabIndex = 0;
+            this.lblYaricap.Text = "Yarıçap";
+            // 
+            // txtYaricap
+            // 
+            this.txtYaricap.Location = new System.Drawing.Point(124, 60);
+            this.txtYaricap.Name = "txtYaricap";
+            this.txtYaricap.Size = new System.Drawing.Size(100, 20);
+            this.txtYaricap.TabIndex = 1;
+            // 
+            // btnHesapla
+            // 
+            this.btnHesapla.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnHesapla.Location = new System.Drawing.Point(124, 107);
+            this.btnHesapla.Name = "btnHesapla";
+            this.btnHesapla.Size = new System.Drawing.Size(100, 30);
+            this.btnHesapla.TabIndex = 2;
+            this.btnHesapla.Text = "Hesapla";
+            this.btnHesapla.UseVisualStyleBackColor = true;
+            this.btnHesapla.Click += new System.EventHandler(this.btnHesapla_Click);
+            // 
+            // lblCevre
+            // 
+            this.lblCevre.AutoSize = true;
+            this.lblCevre.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblCevre.Location = new System.Drawing.Point(120, 202);
+            this.lblCevre.Name = "lblCevre";
+            this.lblCevre.Size = new System.Drawing.Size(55, 20);
+            this.lblCevre.TabIndex = 3;
+            this.lblCevre.Text = "Çevre";
+            // 
+            // lblAlan
+            // 
+            this.lblAlan.AutoSize = true;
+            this.lblAlan.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblAlan.Location = new System.Drawing.Point(120, 169);
+            this.lblAlan.Name = "lblAlan";
+            this.lblAlan.Size = new System.Drawing.Size(45, 20);
+            this.lblAlan.TabIndex = 4;
+            this.lblAlan.Text = "Alan";
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(638, 388);
+            this.Controls.Add(this.lblAlan);
+            this.Controls.Add(this.lblCevre);
+            this.Controls.Add(this.btnHesapla);
+            this.Controls.Add(this.txtYaricap);
+            this.Controls.Add(this.lblYaricap);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label lblYaricap;
+        private System.Windows.Forms.TextBox txtYaricap;
+        private System.Windows.Forms.Button btnHesapla;
+        private System.Windows.Forms.Label lblCevre;
+        private System.Windows.Forms.Label lblAlan;
+    }
+}
+

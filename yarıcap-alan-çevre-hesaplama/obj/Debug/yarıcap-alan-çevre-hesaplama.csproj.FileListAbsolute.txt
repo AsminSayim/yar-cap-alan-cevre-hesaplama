@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\yarıcap-alan-çevre-hesaplama\yarıcap-alan-çevre-hesaplama\bin\Debug\yarıcap-alan-çevre-hesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\yarıcap-alan-çevre-hesaplama\yarıcap-alan-çevre-hesaplama\bin\Debug\yarıcap-alan-çevre-hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\yarıcap-alan-çevre-hesaplama\yarıcap-alan-çevre-hesaplama\bin\Debug\yarıcap-alan-çevre-hesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\yarıcap-alan-çevre-hesaplama\yarıcap-alan-çevre-hesaplama\obj\Debug\yarıcap-alan-çevre-hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\yarıcap-alan-çevre-hesaplama\yarıcap-alan-çevre-hesaplama\obj\Debug\yarıcap-alan-çevre-hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\yarıcap-alan-çevre-hesaplama\yarıcap-alan-çevre-hesaplama\obj\Debug\yarıcap_alan_çevre_hesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\yarıcap-alan-çevre-hesaplama\yarıcap-alan-çevre-hesaplama\obj\Debug\yarıcap_alan_çevre_hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\yarıcap-alan-çevre-hesaplama\yarıcap-alan-çevre-hesaplama\obj\Debug\yarıcap-alan-çevre-hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\yarıcap-alan-çevre-hesaplama\yarıcap-alan-çevre-hesaplama\obj\Debug\yarıcap-alan-çevre-hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\yarıcap-alan-çevre-hesaplama\yarıcap-alan-çevre-hesaplama\obj\Debug\yarıcap-alan-çevre-hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\yarıcap-alan-çevre-hesaplama\yarıcap-alan-çevre-hesaplama\obj\Debug\yarıcap-alan-çevre-hesaplama.pdb
